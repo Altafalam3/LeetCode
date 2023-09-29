@@ -1,3 +1,3 @@
 # LeetCode
 
-All my leetcode submissions will be huploaded here.
+All my leetcode submissions will be uploaded here.
